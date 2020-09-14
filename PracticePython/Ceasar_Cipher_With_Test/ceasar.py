@@ -13,8 +13,8 @@ def ceasar(word : str, key : int) -> str:
 
 
 
-szymek = ceasar(word='szymon sleczka',key=5)
-szymek_odkodowany = ceasar(word='xedrts xqjhepf',key=-5)
+szymek = ceasar(word='Justyna Kusierz',key=5)
+szymek_odkodowany = ceasar(word='Jzxydsf Kzxnjwe',key=-5)
 
 
 
