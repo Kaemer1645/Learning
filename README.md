@@ -10,3 +10,6 @@ Websites which i used to learn:
 https://www.practicepython.org/
 
 https://analityk.edu.pl/
+
+
+dadada
