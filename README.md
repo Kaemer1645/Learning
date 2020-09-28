@@ -12,4 +12,3 @@ https://www.practicepython.org/
 https://analityk.edu.pl/
 
 
-dadada
