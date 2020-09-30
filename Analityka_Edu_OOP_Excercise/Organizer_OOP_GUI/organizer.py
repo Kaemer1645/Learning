@@ -9,7 +9,6 @@ class Organizer:
     def add_note(self):
         title = input('Title: ')
         content = input('Content: ')
-
         new_note = Note(title,content)
         self.__data_base.append(new_note)
 
